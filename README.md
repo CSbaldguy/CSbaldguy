@@ -1,4 +1,4 @@
-- Hi 👋. I am a UG student studying computer science
+- Hi 👋. I’m a UG student studying in computer science
 - 🌱 I’m currently learning React, React Native and NodeJS
 - 📫 You can reach me via `nmgcheung@gmail.com`
 
